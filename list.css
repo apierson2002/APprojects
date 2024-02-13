@@ -1,0 +1,71 @@
+/*https://cs.csis.work/~anpier/final/menu.php
+php -l
+grep anpier /var/www/logs/error.log
+*/
+table {
+	border:1px solid black;
+}
+
+th {
+	color: white;
+	text-align:center;
+	padding:1em;
+	background-color:black;
+	font-size: 13px;
+}
+
+body {
+	background-color: #b29362;
+}
+
+tb{
+	padding:.5em;
+	text-align: center;
+}
+.updateLabel{
+	margin-left: -15%;
+	margin-right: auto;
+}
+
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+}
+.center2 {
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+	border:1px solid black;
+}
+
+.menu-button {
+    background-color: #49a421;
+    border: none;
+    color: black;
+    padding: 7.5px 16px;
+    text-align: left;
+    font-size: 16px;
+    margin: 4px 2px;
+	text-decoration: underline;
+  }
+  
+.delete-button {
+	margin-left: auto;
+	margin-right: auto;
+	text-align:center;
+}
+
+.center3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menuborder{
+	margin-left: auto;
+    border:1px solid black;
+	width:20%;
+	margin-right: 40%;
+}
