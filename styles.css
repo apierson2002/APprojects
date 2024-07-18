@@ -1,0 +1,59 @@
+/* 
+name: Andrew Pierson
+Styles sheet for resume.html
+*/
+
+body {
+	background-color: #E6F1FF;
+	text-align: left;
+	font-family: Georgia, serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.body2 {
+	padding-top: 0px;
+    padding-bottom: 0px;
+	padding-left:125px;
+    padding-right: 125px;
+}
+
+.Coursework {
+	padding-top: 0px;
+    padding-bottom: 0px;
+	padding-left:50px;
+    padding-right: 50px;
+}
+
+.Education {
+	padding-top: 0px;
+    padding-bottom: 0px;
+	padding-left:50px;
+    padding-right: 50px;
+}
+
+.Experience {
+	padding-top: 0px;
+    padding-bottom: 0px;
+	padding-left:50px;
+    padding-right: 50px;
+}
+
+.Activities {
+	padding-top: 0px;
+    padding-bottom: 0px;
+	padding-left:50px;
+    padding-right: 50px;
+}
+
+#updated { 
+	font-size: 0.50em;
+	text-align:right;
+}

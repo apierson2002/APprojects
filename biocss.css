@@ -1,0 +1,47 @@
+/* 
+name: Andrew Pierson
+Styles sheet for bio.html
+*/
+
+body {
+    background-color: #E6F1FF;
+    text-align: center;
+    margin: 0;
+	font-family: Georgia, serif;
+}
+
+h1 {
+		text-align: center;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+	width: 22.5%;
+    height: auto;
+}
+
+/*https://getcssscan.com/blog/how-to-remove-bullets-from-li-css#:~:text=By%20default%2C%20browsers%20add%20bullets,type%3A%20none%20to%20your%20code.&text=This%20code%20targets%20the%20CSS,none%20to%20remove%20the%20bullets.*/
+ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+.bigfont {
+	font-size: 2em;
+}
+
+.para {
+	padding-top: 0px;
+    padding-bottom: 0px;
+	padding-left:125px;
+    padding-right: 125px;
+}
+
+#updated { 
+	font-size: 0.50em;
+	text-align:right;
+}
+
+

@@ -1,0 +1,37 @@
+/* Styles sheet!
+printf "GET /~apierson/hello.html HTTP/1.1\r\n" |nc cs.csis.work  80 > reply.html
+*/
+
+body {
+	background-color: LightBlue;
+	text-align: left;
+}
+
+h1 {
+		text-align: center;
+}
+
+h2 {
+		text-align: left;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*https://getcssscan.com/blog/how-to-remove-bullets-from-li-css#:~:text=By%20default%2C%20browsers%20add%20bullets,type%3A%20none%20to%20your%20code.&text=This%20code%20targets%20the%20CSS,none%20to%20remove%20the%20bullets.*/
+ul{
+	padding: 0;
+	margin: 0;
+}
+
+.bigfont {
+	font-size: 2em;
+}
+
+#updated { 
+	font-size: 0.25em;
+	text-align:right;
+	font-style: italio;
+}
