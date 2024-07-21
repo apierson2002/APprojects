@@ -1,7 +1,10 @@
-### Andrew Pierson's Project Portfolio ###
+### Andrew Pierson's College Project Portfolio ###
 
 Here are several projects I've done while attending college at the University of North Alabama. 
 
-1. Branch 1:
+Use the Branches to navigate through the projects!
 
+1. Main Branch:
+   - It contains my Resume as pdf
 
+2. 
